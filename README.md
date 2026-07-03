@@ -1,21 +1,18 @@
-## Lucas Deotti
+# Lucas Deotti
+
+Hi there! Thanks for visiting my profile. Feel free to connect or reach out.
+
+**About**
+
+- 🎓 **Education:** D.Sc. in Electrical Engineering @ Federal University of Juiz de Fora (UFJF)
+- 🏢 **Affiliation:** Brazilian National Electric System Operator (ONS)
+- 🔎 **Research:** photovoltaic systems, energy planning, and applied optimization
+- 💻 **Programming:** Python and MATLAB
+- 📚 **Learning:** advanced scientific computing
+
+**Links**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-deotti/)](https://www.linkedin.com/in/lucas-deotti/) 
-[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&link=https://medium.com/@rogerioalves.ee/)](https://medium.com/@rogerioalves.ee/) 
+[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-6458-017X)](https://orcid.org/0000-0001-6458-017X) 
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Lucas-Deotti)](https://www.researchgate.net/profile/Lucas-Deotti) 
-[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=abxzuMgAAAAJ)](https://scholar.google.com/citations?user=abxzuMgAAAAJ) 
-
-<!--
-**ldeotti/ldeotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=abxzuMgAAAAJ)](https://scholar.google.com/citations?user=abxzuMgAAAAJ)
