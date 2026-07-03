@@ -1,4 +1,9 @@
-## Hi there 👋
+## Lucas Deotti
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-deotti/)](https://www.linkedin.com/in/lucas-deotti/) 
+[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&link=https://medium.com/@rogerioalves.ee/)](https://medium.com/@rogerioalves.ee/) 
+[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Lucas-Deotti)](https://www.researchgate.net/profile/Lucas-Deotti) 
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=abxzuMgAAAAJ)](https://scholar.google.com/citations?user=abxzuMgAAAAJ) 
 
 <!--
 **ldeotti/ldeotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
