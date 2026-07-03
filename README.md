@@ -7,8 +7,14 @@ Hi there! Thanks for visiting my profile. Feel free to connect or reach out.
 - 🎓 **Education:** D.Sc. in Electrical Engineering @ Federal University of Juiz de Fora (UFJF)
 - 🏢 **Affiliation:** Brazilian National Electric System Operator (ONS)
 - 🔎 **Research:** photovoltaic systems, energy planning, and applied optimization
-- 💻 **Programming:** Python and MATLAB
 - 📚 **Learning:** advanced scientific computing
+
+**Programming**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="32" height="32"/>
+</p>
 
 **Links**
 
