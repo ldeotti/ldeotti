@@ -1,4 +1,4 @@
-## Lucas Deotti
+# Lucas Deotti
 
 Hi there! Thanks for visiting my profile. Feel free to connect or reach out.
 
